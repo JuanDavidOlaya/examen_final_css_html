@@ -88,6 +88,11 @@ body{
     -ms-border-radius: 5px;
     -o-border-radius: 5px;
 }
+.contenido__inicio--img{
+    max-width: 60% ;
+    object-fit: fill; 
+
+}
 .contenido__cartas{
     width: 100%;
     background: var(--c3);
