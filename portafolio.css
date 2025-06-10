@@ -1,0 +1,19 @@
+.contenido__cartas{
+    width: 100%;
+}
+.cartas__clases{
+    text-align: center;
+border-radius: 20px;
+transition: all 0.3s ease;
+backdrop-filter: blur(4px);
+box-shadow: 0 6px 20px rgba(0, 0, 0, 0.06);
+padding: 8%
+}
+.contenido__inicio--img{
+    width: 100%; 
+  object-fit: contain; 
+  aspect-ratio: 1 / 1;
+  height: 125px; 
+  border-radius: 15%; 
+  margin-bottom: 10px;
+}
